@@ -4,7 +4,7 @@
  * Plugin Name: BuddyForms Collaborative Publishing
  * Plugin URI: https://themekraft.com/products/buddyforms-collaborative-publishing/
  * Description: BuddyForms Collaborative Publishing
- * Version: 1.0.0
+ * Version: 1.0.1-beta.1
  * Author: ThemeKraft
  * Author URI: https://themekraft.com/
  * License: GPLv2 or later
@@ -35,7 +35,7 @@ class BuddyFormsCPublishing {
 	/**
 	 * @var string
 	 */
-	public static $version = '1.0.0';
+	public static $version = '1.0.1-beta.1';
 	public static $include_assets = array();
 	public static $slug = 'buddyforms-collaborative-publishing';
 
